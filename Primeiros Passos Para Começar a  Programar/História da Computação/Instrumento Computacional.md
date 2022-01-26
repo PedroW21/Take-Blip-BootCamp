@@ -1,0 +1,5 @@
+- Primeira maquina (Instrumento Computacional): Blaise Pascal (tinha 18 anos na epoca);
+- Os "computadores" antigos não eram programaveis;
+- A ideia de programação surge com Charles Babbage;
+- Ada Lovelance - Patrona da Ciência da Computação: Primeira programadora (criou instruções complexas para a calculadora analitica de Babbage);
+- CRT - Virou IBM;

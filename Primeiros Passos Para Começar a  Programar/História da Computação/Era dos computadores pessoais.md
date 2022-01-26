@@ -1,0 +1,5 @@
+- 1975: Popular Eletronics apresenta o primeiro computador comercial (pequeno);
+- Willian (Bill) Gates e Paull Allen criam a linguagem Basic;
+- 1977: Apple 2 (em 76 foi lançado o mini pc, porem a de 77 era mais amigavel);
+- 1981: Lança o IBM-PC (arquitetura aberta);
+- $10.000 o precinho do gerente por um pc;

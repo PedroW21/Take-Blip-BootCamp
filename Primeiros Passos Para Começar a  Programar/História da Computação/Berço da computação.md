@@ -1,0 +1,6 @@
+- Pai da computação: Alan Turing;
+  - Definiu o algoritimo, operacionalizou o pensamento humano;
+- Claude Shannon: Conceitos e Lógica, criando assim a base para os computadores digitais (atuais).
+- Von Newmann: Varias contribuições, sendo uma muito especial: criou uma solução para utilizar um espaço da memoria para armazenar dados e programas e posteriormente a utilizar (Arquitetura de Von Newmann);
+- 1950: "Maquinas podem pensar?" Questionamento proposto por Alan.
+- Alan criou a codificação a nivel  de hardware.

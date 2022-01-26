@@ -1,0 +1,11 @@
+- Konrad Zuse (Z1 - não construido por falta de recurso)
+  - Z3 conseguia fazer 3/4 operações por segundo. 
+- IBM cria MARK1 (modificação de instruções dinamica | Unidade de decisão - algoritimo).
+  - Memórias separadas para instruções e dados.
+- ENIAC: Primeiro computador de fato;
+  - Formato em U,
+  - Mémorias mastodonticas - 80x8.5 pés,
+  - Registradores - 2 pés,
+  - 18 mil válvulas,
+  - Equipe de 80 mulheres para o programar.
+-  

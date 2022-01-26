@@ -1,0 +1,2 @@
+- A ciência é uma área de avanços cumulativos;
+- Objetivo: Minimar esforço, otimizar recursos.
