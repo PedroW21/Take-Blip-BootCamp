@@ -21,13 +21,32 @@ const alunos = [
 	}
 ];
 
-function alunosAprovados(array, media){
+// Primeira forma
+
+// function alunosAprovados(array, media){
+//     let aprovados = [];
+
+//     for(let i = 0; i < array.lenght; i++){
+//         if(array[i].nota >= media) {
+//             aprovados.push(array[i].nome);
+//         }
+//     }
+//     return aprovaados;
+// }
+
+// Segunda Forma
+
+function alunosAprovados(array,media) {
     let aprovados = [];
 
-    for(let i = 0; i < array.lenght; i++){
-        if(array[i].nota >= media) {
-            aprovados.push(array[i].nome);
+    for(let i = 0; i < array.length; i++){
+        const { nota,nome } = array[i];
+
+        if(nota >= media) {
+            aprovados.push(nome);
         }
     }
-    return aprovaados;
+    return console.log(aprovados);
 }
+
+alunosAprovados(alunos, 6)
