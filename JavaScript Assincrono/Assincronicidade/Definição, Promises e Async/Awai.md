@@ -1,0 +1,9 @@
+- [Definição](https://i.imgur.com/I2LPIvg.png);
+- O JS roda de maneira [síncrona](https://i.imgur.com/ZkYa0QW.png);
+- [Promises](https://i.imgur.com/UsglP0K.png);
+- [Estados](https://i.imgur.com/fsGojkE.png) de uma Promise;
+- [Estrutura](https://i.imgur.com/zJ4qh2D.png) de uma Promise;
+- [Manipulando](https://i.imgur.com/qRhcyWA.png) uma Promise;
+- [Async/Await](https://i.imgur.com/XweoqZP.png);
+- [Funções](https://i.imgur.com/vjBHNyN.png) assincronas podem retornar Promises!;
+- [Try/Catch](https://i.imgur.com/HRgoT5u.png) em Promises.
