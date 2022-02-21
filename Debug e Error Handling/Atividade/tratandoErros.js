@@ -31,5 +31,5 @@ array = [1, 4, 5, 7, 9];
 
 recebeArrayENum(); // Testando Reference Error
 recebeArrayENum(5,5); // Testando TypeError Object 
-recebeArrayENum(array, a); // Testando TypeError Number 
+recebeArrayENum(array, "a"); // Testando TypeError Number 
 recebeArrayENum(array, 6); // Testando RangeError
