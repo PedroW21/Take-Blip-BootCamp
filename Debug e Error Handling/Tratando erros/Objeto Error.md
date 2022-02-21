@@ -1,0 +1,1 @@
+[Exemplo](https://i.imgur.com/oa4NWQS.png)
