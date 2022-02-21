@@ -1,0 +1,4 @@
+- [Oque](https://i.imgur.com/kx5gcv1.png) são?;
+- [Formato](https://i.imgur.com/wcVMV7j.png);
+- [Fetch](https://i.imgur.com/OVD46ax.png);
+- [Aplicação](https://i.imgur.com/VmFV1Vl.png) num cenário de BD;
