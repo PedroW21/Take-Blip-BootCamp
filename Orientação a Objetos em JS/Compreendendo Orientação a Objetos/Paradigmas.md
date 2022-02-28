@@ -11,7 +11,7 @@
 
 - [Heranças](https://i.imgur.com/zc4EwL6.png);
 
-## 
+## Encapsulamento
 
 - [Encapsulamento](https://i.imgur.com/NGDyU2b.png);
 
