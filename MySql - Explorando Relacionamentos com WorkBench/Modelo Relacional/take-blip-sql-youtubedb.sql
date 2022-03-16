@@ -39,12 +39,34 @@ UPDATE videos SET FK_SEO=1 WHERE id_video=2;
 UPDATE videos SET FK_SEO=2 WHERE id_video=3;
 
 /*** FIM DAS ALTERAÇÕES ***/
-
 CREATE TABLE playlist (
+id_playlists INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+nome_playlist VARCHAR(50) NOT NULL
+);
 
-id_playlists INT NOT NULL PRIMARY KEY,
-videos INT NOT NULL,
-title VARCHAR(50) NOT NULL);
+INSERT INTO playlist(nome_playlist) VALUES ("Análises de Filmes");
+INSERT INTO playlist(nome_playlist) VALUES ("Ucrania - Victoria 2");
+INSERT INTO playlist(nome_playlist) VALUES ("Filosofando");
+
+/*** Criando uma tabela intermédiaria com relação de muitos para muitos (varios videos podem fazer parte de varias playlists***/
+
+CREATE TABLE videos_playlists (
+id_vidplaylist INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+
+FK_videos INT,
+FOREIGN KEY (FK_videos) REFERENCES videos(id_video),
+
+FK_playlist INT,
+FOREIGN KEY (FK_playlist) REFERENCES playlist(id_playlists)
+);
+
+/*** Alterações na video_playlists ***/
+
+INSERT INTO videos_playlists(FK_videos, FK_playlist) VALUES (2,1);
+INSERT INTO videos_playlists(FK_videos, FK_playlist) VALUES (1,2);
+INSERT INTO videos_playlists(FK_videos, FK_playlist) VALUES (3,3);
+
+/*** FIM DAS ALTERAÇÕES ***/
 
 create table SEO (
 id_seo INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
